@@ -1,0 +1,11 @@
+put your FLAC encoded files inside subfolders, where the most shallow folder is the label. subfolder allowed.
+
+
+example:
+
+sonicdeapdream/data/classic/mozart.flac
+sonicdeapdream/data/classic/mozart_cd1/track1.flac
+sonicdeapdream/data/jazz/song1.flac
+
+
+

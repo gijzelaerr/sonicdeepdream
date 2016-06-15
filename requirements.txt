@@ -1,6 +1,7 @@
 matplotlib
 tensorflow
-ipython
 notebook
-numpy
 pysoundfile
+pillow
+h5py
+pandas
